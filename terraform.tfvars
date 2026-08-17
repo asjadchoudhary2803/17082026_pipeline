@@ -7,4 +7,9 @@ rg1 = {
   name     = "prashant_RG"
   location = "West Europe"
   }
+
+   rg3 = {
+  name     = "newrg12"
+  location = "West Europe"
+  }
   }
