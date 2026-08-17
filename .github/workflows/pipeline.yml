@@ -12,7 +12,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: ./17082026_pipeline # 👈 FIXED: Aapke image ke mutabik folder path
+        working-directory: ./17082026_pipeline
 
     steps:
       - name: Checkout code
